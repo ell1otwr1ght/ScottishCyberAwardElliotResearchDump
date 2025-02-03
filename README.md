@@ -4,3 +4,4 @@ The current best accuarcy for interference si around 82% for spikingReformer, in
 
 If you need to run the code for whaterver reason please don't hesistate to get in touch and i can provide the nessary files and assitance needed to get it up and running.
 
+TBA: push code from server for all 3 models and coresponding test results (03/02/2025)
